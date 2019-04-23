@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">tugasuts</string>
+    <string name="choose_and_click">Choose and Click!</string>
+    <string name="linear_layout">Linear Layout</string>
+    <string name="button">Button</string>
+    <string name="vertical">Vertical</string>
+    <string name="vertical_2">Vertical</string>
+    <string name="vertical_3">Vertical</string>
+    <string name="linear_layout_vertical">Linear Layout Vertical</string>
+    <string name="linear_layout_horizontal">Linear Layout Horizontal</string>
+    <string name="horizontal">Horizontal</string>
+    <string name="relative_layout">Relative Layout</string>
+    <string name="go_to_camera">Go to camera</string>
+    <string name="go_to_galery">Go to galery</string>
+    <string name="todo">TODO</string>
+    <string name="back">Back</string>
+    <string name="constraint_layout">Constraint Layout</string>
+    <string name="halo">halo</string>
+    <string name="type_something">Type Something</string>
+    <string name="whats_on_your_mind">Whats on your mind?</string>
+</resources>
